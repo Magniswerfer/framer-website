@@ -1,0 +1,67 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# ✨ Framer Website Visual and Layout Concept ✨
+- Overall vibe:
+    - Clean, bright, bold.
+    - Playful use of colored blocks and frames (nod to what the app actually does!)
+    - Slightly asymmetrical grid layouts, like a creative collage.
+    - Movement and layering to create depth without overwhelming the visitor.
+
+Layout Sketch (scrolling down):
+- Hero Section
+    - Big white background block.
+    - Title text:
+        - Frame Your Shots.
+        - Keep Their Impact.
+    - Floating image of a framed Instagram post mockup (angled slightly for 3D effect).
+    - Two big buttons:
+    - [Download] [View on GitHub]
+    - Background: splashes of soft colors (Instagram sunset shades).
+- Featured Examples
+    - Block grid layout
+    - 3–4 framed images showing different styles: simple white border, colorful background, blurred background.
+    - Some blocks are images, others are text like:
+        - “No more awkward crops!”
+        - “Customizable to match your style.”
+- How It Works
+    - A step-by-step slider:
+        - Pick your image
+        - Choose your frame color
+        - Preview
+        -   Export & post!
+    - Each step has its own colored tile, with small icon illustrations (camera, palette, preview screen, upload cloud).
+
+- About the App
+    - Simple text block:
+        - Framer is a lightweight, open-source app for Android. No ads. No tracking. Just clean, gorgeous frames.
+        - A few small feature highlights (with icons):
+            - 🎨 Custom Colors
+            - 📏 Aspect Ratio Preservation
+            - 🔥 Auto Background Blur
+            - 🧩 Open Source
+
+Call to Action
+    - Big full-width, bright block:
+    - Ready to Frame Your World?
+    - [Download Framer]
+
+Footer
+    - Links: GitHub | Privacy Policy | License
+    - Lighthearted note: Made with love & frames.
+
+## 🎨 Color Palette:
+Primary: White background
+Accent Colors: Instagram-inspired gradient pops (sunset orange, blush pink, electric purple, blue sky)
+Text: Dark navy or deep purple (instead of pure black for a softer, modern look)
+
+## 🖋️ Fonts:
+Friendly geometric sans-serif (like Poppins or Space Grotesk)
+Big headlines, smaller friendly paragraph text
+
+## 🔥 Little Extras:
+Subtle hover animations (blocks grow slightly on hover)
+Animated arrows between How It Works steps
+Mobile-first, super lightweight loading

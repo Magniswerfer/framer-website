@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* De Stijl Circular Elements */
+.circle-red {
+  border-radius: 50%;
+  background-color: #dc2626;
+}
+
+.circle-blue {
+  border-radius: 50%;
+  background-color: #2563eb;
+}
+
+.circle-yellow {
+  border-radius: 50%;
+  background-color: #fcd34d;
+}
+
+.circle-black {
+  border-radius: 50%;
+  background-color: #000000;
+}
+
+.circle-white {
+  border-radius: 50%;
+  background-color: #ffffff;
+}
