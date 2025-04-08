@@ -2,7 +2,7 @@ import MobileMenu from "./MobileMenu.tsx";
 
 export default function Navigation() {
   return (
-    <nav class="mb-1">
+    <nav class="m-1">
       <div class="flex items-center gap-1">
         <div class="hidden lg:block bg-white rounded-lg flex items-center">
           <a href="/" class="flex items-center">

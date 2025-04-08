@@ -15,6 +15,21 @@ export default function App({ Component }: AppProps) {
           body {
             font-family: Helvetica, Arial, sans-serif;
           }
+          /* Custom scrollbar styling */
+          ::-webkit-scrollbar {
+            width: 4px;
+            height: 4px;
+          }
+          ::-webkit-scrollbar-track {
+            background: transparent;
+          }
+          ::-webkit-scrollbar-thumb {
+            background: #e5e7eb;
+            border-radius: 4px;
+          }
+          ::-webkit-scrollbar-thumb:hover {
+            background: #d1d5db;
+          }
         `,
           }}
         />
@@ -26,7 +41,9 @@ export default function App({ Component }: AppProps) {
       <body class="font-sans antialiased text-gray-900 bg-white min-h-screen">
         <Navigation />
         <main class="mt-[6.3rem] lg:mt-0">
-          <Component />
+          <div class="m-1">
+            <Component />
+          </div>
         </main>
         <footer class="mt-8 p-1">
           <div class="grid grid-cols-12 gap-1">
